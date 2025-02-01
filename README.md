@@ -7,7 +7,7 @@
     <img src="assets/88x31.gif">
 </p>
 
-<p style="text-align: center">
+<p align="center">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GlavaPenguinov/yae-miko">
     <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr-closed/GlavaPenguinov/yae-miko">
 </p>
