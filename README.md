@@ -1,9 +1,9 @@
 
-<p style="text-align: center">
+<p align="center">
     <img src="assets/yae256.png">
 </p>
 
-<p style="text-align: center">
+<p align="center">
     <img src="assets/88x31.gif">
 </p>
 
